@@ -5,7 +5,7 @@ This Project is part of Dicoding Final Project
 
 Dataset used in this project -> https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 
-I suggest running this code in google collab -> https://colab.research.google.com/ <br><br>
+I suggest running this code in google colab -> https://colab.research.google.com/ <br><br>
 
 
 ## Output Example
